@@ -1,0 +1,10 @@
+ohhh the difference b/w git add ./* and git add -A is the former only adds what is in the current dir
+
+Steps for repo:
+Make folder/make sure you are in correct one to push
+git init to make it into a git repo
+add/commit
+get repo prepared on GitHub (dont add readme cause it forces you to do a pull first (makes ense since readme file is not on local) )
+copy remote origin link
+access token if not alreasdy
+push
